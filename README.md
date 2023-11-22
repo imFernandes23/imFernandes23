@@ -22,3 +22,5 @@
     <img align="center" alt="fer-Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
 </div>
 
+![snake gif](https://github.com/imFernandes23/imFernandes23/blob/output/github-contribution-grid-snake.svg)
+
